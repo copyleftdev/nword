@@ -1,7 +1,3 @@
-Here’s the **ultimate usage README** for your Rust project, `nword`. This README provides a comprehensive guide to installing, configuring, and using the project, as well as details about its functionality and dependencies.
-
----
-
 # **nword**  
 **A Rust-based tool for scanning, processing, and analyzing source code directories.**
 
